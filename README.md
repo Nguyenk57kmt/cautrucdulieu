@@ -1,3 +1,3 @@
-Họ tên: Nguyễn Thành Nguyên
-Lớp: K57KMT
-MSV: k215480106115
+- Họ tên: Nguyễn Thành Nguyên
+- Lớp: K57KMT
+- MSV: k215480106115
